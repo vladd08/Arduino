@@ -1,0 +1,12 @@
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\bin\Debug\Proiect Sincretic.exe.config
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\bin\Debug\Proiect Sincretic.exe
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\bin\Debug\Proiect Sincretic.pdb
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.csprojResolveAssemblyReference.cache
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect_Sincretic.Form1.resources
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect_Sincretic.Properties.Resources.resources
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.csproj.GenerateResource.Cache
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.exe
+c:\users\vlad orbulescu\documents\visual studio 2015\Projects\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.pdb
+D:\Programming\C#\Proiect Sincretic\Proiect Sincretic\bin\Debug\Proiect Sincretic.exe.config
+D:\Programming\C#\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.exe
+D:\Programming\C#\Proiect Sincretic\Proiect Sincretic\obj\Debug\Proiect Sincretic.pdb
